@@ -82,7 +82,7 @@ class _LoginScreenState extends State<LoginScreen>
                     child: Column(
                       children: [
                         const Text(
-                          "Bienvenido",
+                          "Nuclea Solutions",
                           style: TextStyle(
                               fontSize: 26, fontWeight: FontWeight.bold),       
                       ),
@@ -90,7 +90,7 @@ class _LoginScreenState extends State<LoginScreen>
                         TextField(
                           controller: _userController,
                           decoration: const InputDecoration(
-                              labelText: 'Usuario',
+                              labelText: 'usuario',
                               border: OutlineInputBorder()),
                         ),
                         const SizedBox(height: 15),
@@ -98,7 +98,7 @@ class _LoginScreenState extends State<LoginScreen>
                           controller: _passController,
                           obscureText: true,
                           decoration: const InputDecoration(
-                              labelText: 'Contraseña',
+                              labelText: 'Contraeseña',
                               border: OutlineInputBorder()),
                         ),
                         const SizedBox(height: 20),
@@ -114,7 +114,7 @@ class _LoginScreenState extends State<LoginScreen>
                             padding: const EdgeInsets.only(top: 12),
                             child: Text(
                               _errorText!,
-                              style: const TextStyle(color: Colors.red),
+                              style: const TextStyle(color: Color.fromARGB(255, 171, 136, 133)),
                             ),
                           ),
                       ],
