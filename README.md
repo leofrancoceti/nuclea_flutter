@@ -1,75 +1,107 @@
+# 🚀 Nuclea Flutter - Proyecto de Prueba Técnica
 
-##Login de Nuclea 
+Bienvenido a la prueba técnica para **Nuclea - Internship Full Stack**.  
+Este proyecto es una **Progressive Web App (PWA)** desarrollada con **FlutterFlow** que permite la creación, edición, visualización y gestión de eventos.
 
-** ![image](https://github.com/user-attachments/assets/42490187-dbd7-43e9-a450-96f7021ce152)
-Usuario_ admin
-password: 1234
+---
 
-##Creación de eventos
-![image](https://github.com/user-attachments/assets/3520c93d-90c8-4ad1-a903-ddc2eb62ad70)
-![image](https://github.com/user-attachments/assets/af1d793f-5d48-4eb6-b5f0-841d41675fc6)
-##Opcion de Eliminar o editar evento
-![image](https://github.com/user-attachments/assets/845af16e-2952-4563-bc4c-608ea31721d8)
-##Visualización de evento
-![image](https://github.com/user-attachments/assets/f10c2c6f-378d-4f20-8e16-5559b1f17baa)
+## 🔐 Login de la Aplicación
 
+![Login](https://github.com/user-attachments/assets/42490187-dbd7-43e9-a450-96f7021ce152)
 
+**Usuario:** `admin`  
+**Contraseña:** `1234`
 
+---
 
+## 🗓️ Creación de Eventos
 
+La aplicación permite crear eventos ingresando los siguientes datos:
+- Nombre del evento
+- Lugar
+- Fecha
+- Hora
+- Descripción
+- Imagen (opcional)
 
-# nuclea_flutter
+### Capturas:
 
-A new Flutter project.
+![Creación de evento 1](https://github.com/user-attachments/assets/3520c93d-90c8-4ad1-a903-ddc2eb62ad70)  
+![Creación de evento 2](https://github.com/user-attachments/assets/af1d793f-5d48-4eb6-b5f0-841d41675fc6)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✏️ Editar y 🗑️ Eliminar Eventos
 
-A few resources to get you started if this is your first Flutter project:
+Puedes editar o eliminar cualquier evento creado.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Editar o eliminar](https://github.com/user-attachments/assets/845af16e-2952-4563-bc4c-608ea31721d8)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
 
+## 🔍 Visualización de Eventos
 
-**Internship Full Stack**
-En Nuclea, nos interesa conocer tus habilidades de programación, así como tu capacidad para
-investigar e implementar nuevas tecnologías. A través de esta prueba, podrás exponer tu talento.
-Recuerda que apreciamos la originalidad y la forma en que utilizas los recursos disponibles.
-La prueba consta de tres ejercicios, y es necesario completar el primero para poder realizar los
-demás.
-**Consideraciones Generales:**
-● Todo el diseño y manejo de ventanas es completamente libre. Esto incluye:
-○ Tipografías
-○ Logos
-○ UX/UI
-○ Colores
-○ Assets, etc.
-##Ejercicio 1: Crear una PWA con FlutterFlow
-Usando FlutterFlow (en su versión gratuita), crea una PWA (Web Progressive App) que permita la
-creación de eventos sencillos. La aplicación debe registrar los siguientes campos para cada evento:
-● Nombre del evento
-● Lugar
-● Hora
-● Fecha
-● Descripción
-**Además, en otra ventana, se debe mostrar una lista de todos los eventos creados con la opción de
-seleccionar y ver los detalles de cada evento. La aplicación debe incluir un botón para editar y otro para
-eliminar eventos.**
-**Ejercicio 2: QR en Detalle del Evento
-Añade a la aplicación una funcionalidad donde, en la ventana de detalle de cada evento, se genere un
-código QR que pueda ser escaneado desde la misma aplicación y que redirija a los datos del evento.
-Ejercicio 3: Subir y Mostrar Imágenes
-Extiende la funcionalidad anterior para permitir subir una foto en la creación de cada evento y que esta
-se muestre en la descripción del evento.**
-**Entrega de Resultados:
-● Para la entrega, simplemente comparte el Link Público del proyecto utilizando el modo Web
-Publish de FlutterFlow. Aquí puedes ver las instrucciones para realizar la publicación: Web
-Publishing en FlutterFlow.
-● Tiempo de entrega: Tienes 3 días a partir de hoy para completar esta prueba y
-enviarla al correo de paulina@nuclea.solutions**
+Desde la lista de eventos puedes acceder al detalle de cada uno.
 
+![Detalle del evento](https://github.com/user-attachments/assets/f10c2c6f-378d-4f20-8e16-5559b1f17baa)
+
+---
+
+## 📲 Funcionalidades por Ejercicio
+
+### ✅ Ejercicio 1: Crear una PWA con FlutterFlow
+
+Desarrollar una PWA que permita crear eventos y listarlos.  
+Cada evento incluye:
+- Nombre
+- Lugar
+- Hora
+- Fecha
+- Descripción
+
+Incluye botones para:
+- Editar evento
+- Eliminar evento
+
+---
+
+### ✅ Ejercicio 2: Generación de Código QR
+
+En el detalle de cada evento, se genera un **código QR** escaneable que dirige a los datos del evento.
+
+---
+
+### ✅ Ejercicio 3: Subir y Mostrar Imágenes
+
+Se habilita la opción de **subir una imagen** al crear un evento, la cual se mostrará en su vista detallada.
+
+---
+
+## 📤 Entrega
+
+- Comparte el **link público del proyecto** usando la función **Web Publish** de FlutterFlow.  
+- Instrucciones aquí: [Publicar Web App en FlutterFlow](https://docs.flutterflow.io/getting-started/preview-and-deploy/web-deployment)
+- Tiempo de entrega: **3 días** a partir de la fecha de recepción.
+- Envíalo al correo: 📧 **paulina@nuclea.solutions**
+
+---
+
+## 📚 Recursos útiles para Flutter
+
+- [Codelab: Tu primera app en Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Ejemplos útiles](https://docs.flutter.dev/cookbook)
+- [Documentación oficial de Flutter](https://docs.flutter.dev/)
+
+---
+
+## ✨ Originalidad y creatividad
+
+En Nuclea valoramos:
+- Tu capacidad para investigar
+- El uso de tecnologías modernas
+- Un diseño atractivo (tipografía, UX/UI, colores, etc.)
+- Soluciones limpias y funcionales
+
+---
+
+Gracias por formar parte de este reto. ¡Éxito!
