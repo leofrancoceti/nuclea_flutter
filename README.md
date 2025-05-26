@@ -1,7 +1,6 @@
-# 🚀 Nuclea Flutter - Proyecto de Prueba Técnica
+# 🚀 Nuclea Flutter 
 
-Bienvenido a la prueba técnica para **Nuclea - Internship Full Stack**.  
-Este proyecto es una **Progressive Web App (PWA)** desarrollada con **FlutterFlow** que permite la creación, edición, visualización y gestión de eventos.
+Este proyecto es una **Progressive Web App (PWA)** desarrollada con **Flutter** que permite la creación, edición, visualización y gestión de eventos.
 
 ---
 
@@ -77,12 +76,7 @@ Se habilita la opción de **subir una imagen** al crear un evento, la cual se mo
 
 ---
 
-## 📤 Entrega
 
-- Comparte el **link público del proyecto** usando la función **Web Publish** de FlutterFlow.  
-- Instrucciones aquí: [Publicar Web App en FlutterFlow](https://docs.flutterflow.io/getting-started/preview-and-deploy/web-deployment)
-- Tiempo de entrega: **3 días** a partir de la fecha de recepción.
-- Envíalo al correo: 📧 **paulina@nuclea.solutions**
 
 ---
 
@@ -94,14 +88,3 @@ Se habilita la opción de **subir una imagen** al crear un evento, la cual se mo
 
 ---
 
-## ✨ Originalidad y creatividad
-
-En Nuclea valoramos:
-- Tu capacidad para investigar
-- El uso de tecnologías modernas
-- Un diseño atractivo (tipografía, UX/UI, colores, etc.)
-- Soluciones limpias y funcionales
-
----
-
-Gracias por formar parte de este reto. ¡Éxito!
